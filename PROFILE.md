@@ -1,3 +1,4 @@
+Welcome to my GitHub profile!
 # Welcome to My GitHub Profile! 👋
 
 Hi there! I'm learning to use GitHub and excited to explore the world of collaborative coding.
